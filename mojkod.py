@@ -1,2 +1,3 @@
 print("hello Git")
-print("nova izmena")
+print("nova izmena"
+ovo je nova grana)
